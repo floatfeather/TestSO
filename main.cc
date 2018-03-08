@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-	cout << AddNumber(3, 4) << endl;
+	cout << AddNumber(3, 4, 5) << endl;
 	return 0;
 }
